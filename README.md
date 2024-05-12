@@ -1,0 +1,2 @@
+# Character Detection with OpenCV
+
