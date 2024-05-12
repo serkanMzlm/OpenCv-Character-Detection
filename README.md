@@ -7,3 +7,11 @@ in which case the folder containing Tesseract should be specified. An example co
 ```
 pt.pytesseract.tesseract_cmd = "D:\\Program Files\\Tesseract-OCR\\tesseract.exe"
 ```
+### Character Detection in Images:
+![character](images/character.png) 
+
+### Word Detection in Images:
+![character](images/word.png) 
+
+### Numbers Detection in Images:
+![character](images/numbers.png) 
